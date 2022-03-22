@@ -1,6 +1,6 @@
 <template>
   <div class="min-h-screen">
-    <img src="/images/1.png" class="w-full h-full absolute object-cover pointer-none top-0" />
+    <img src="/images/screenshot.png" class="w-full h-full absolute object-cover pointer-none top-0" />
     <div class="bottom-0 bg-gradient-to-t from-black w-full h-64 fixed z-10 pointer-none"></div>
     <header class="w-full flex justify-between sticky z-30 top-0 p-8 md:p-16 lg:p-32">
       <nuxt-link to="/">
