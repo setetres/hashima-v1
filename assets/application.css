@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Selection */
+
+::-moz-selection {
+  @apply bg-black text-white;
+}
+
+::selection {
+  @apply bg-black text-white;
+}
+
+/* Body */
+
+body {
+  @apply bg-black select-none;
+}
+
+body::before {
+  background-image: url('/images/noise.gif');
+  background-repeat: repeat;
+  background-position: center center;
+  bottom: 0;
+  content: '';
+  display: block;
+  font-family: 'Dosis', sans-serif;
+  left: 0;
+  opacity: 0.10;
+  pointer-events: none;
+  position: fixed;
+  right: 0;
+  top: 0;
+  z-index: 50;
+}
