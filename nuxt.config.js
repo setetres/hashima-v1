@@ -48,7 +48,7 @@ export default {
       {
         hid: 'twitter:image',
         name: 'twitter:image',
-        content: 'https://setetres.st/images/share-hashima.png',
+        content: 'https://hashima.gg/images/share-hashima.png',
       },
     ],
     link: [

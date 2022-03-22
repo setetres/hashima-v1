@@ -1,6 +1,6 @@
 # hashima
 
-[![Github License](https://img.shields.io/github/license/setetres/v14.svg?v=1)](https://github.com/setetres/v14/blob/master/LICENSE)
+[![Github License](https://img.shields.io/github/license/setetres/hashima.svg?v=1)](https://github.com/setetres/hashima/blob/master/LICENSE)
 
 | [![hashima](https://setetres.s3.amazonaws.com/setetres.st/img/share-hashima.png?v=1&raw=true)](http://hashima.gg) |
 | ----------------------------------------------------------------------------------------------------------------- |
