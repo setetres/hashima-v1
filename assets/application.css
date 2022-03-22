@@ -34,3 +34,7 @@ body::before {
   top: 0;
   z-index: 50;
 }
+
+.nuxt-progress {
+  z-index: 40 !important;
+}

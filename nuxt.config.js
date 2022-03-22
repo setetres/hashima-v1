@@ -65,9 +65,9 @@ export default {
   },
   css: ['@/assets/application.css'],
   loading: {
-    color: '#000000',
-    height: '4px',
-    failedColor: '#e02020',
+    color: '#ffffff',
+    height: '3px',
+    failedColor: '#f51a1a',
     throttle: 0,
   },
   components: true,
