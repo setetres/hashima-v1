@@ -35,9 +35,9 @@
     semver "^6.3.0"
     source-map "^0.5.0"
 
-"@babel/eslint-parser@^7.18.9":
+"@babel/eslint-parser@7.18.9":
   version "7.18.9"
-  resolved "https://registry.npmjs.org/@babel/eslint-parser/-/eslint-parser-7.18.9.tgz"
+  resolved "https://registry.yarnpkg.com/@babel/eslint-parser/-/eslint-parser-7.18.9.tgz#255a63796819a97b7578751bb08ab9f2a375a031"
   integrity sha512-KzSGpMBggz4fKbRbWLNyPVTuQr6cmCcBhOyXTw/fieOVaw5oYAwcAj4a7UKcDYCPxQq+CG1NCDZH9e2JTXquiQ==
   dependencies:
     eslint-scope "^5.1.1"
@@ -1360,9 +1360,9 @@
     consola "^2.15.3"
     defu "^5.0.0"
 
-"@nuxtjs/eslint-config@^10.0.0":
+"@nuxtjs/eslint-config@10.0.0":
   version "10.0.0"
-  resolved "https://registry.npmjs.org/@nuxtjs/eslint-config/-/eslint-config-10.0.0.tgz"
+  resolved "https://registry.yarnpkg.com/@nuxtjs/eslint-config/-/eslint-config-10.0.0.tgz#6b4a9ad3bcdcc7d24314c86812ddb471e4879f53"
   integrity sha512-5umb4Nyd/D9azWyFPGe3ru0E5v8SSVzgtZeJwTaCpqjsQDrr51P7QPtBTVdJXIbhdY1lws67x9Emkb7oKwh4zw==
   dependencies:
     eslint-config-standard "^17.0.0"
@@ -1373,9 +1373,9 @@
     eslint-plugin-unicorn "^42.0.0"
     eslint-plugin-vue "^8.7.1"
 
-"@nuxtjs/eslint-module@^3.1.0":
+"@nuxtjs/eslint-module@3.1.0":
   version "3.1.0"
-  resolved "https://registry.npmjs.org/@nuxtjs/eslint-module/-/eslint-module-3.1.0.tgz"
+  resolved "https://registry.yarnpkg.com/@nuxtjs/eslint-module/-/eslint-module-3.1.0.tgz#3e7d241f4b53fbc6ab59932054d11dd22a828a40"
   integrity sha512-9bK8AOJBflWmbQeL77SHIsgyGzhiW2b1BdwOtZ53Yyfa7Km3XMMVd8CtLA7z4+03eS+4TVQMxw62yRpJH5icZA==
   dependencies:
     consola "^2.15.3"
@@ -2047,7 +2047,7 @@ atob@^2.1.2:
   resolved "https://registry.npmjs.org/atob/-/atob-2.1.2.tgz"
   integrity sha512-Wm6ukoaOGJi/73p/cl2GvLjTI5JM1k/O14isD73YML8StrH/7/lRFgmg8nICZgD3bZZvjwCGxtMOD3wWNAu8cg==
 
-autoprefixer@^10.2.5, autoprefixer@^10.4.8:
+autoprefixer@10.4.8, autoprefixer@^10.2.5:
   version "10.4.8"
   resolved "https://registry.npmjs.org/autoprefixer/-/autoprefixer-10.4.8.tgz"
   integrity sha512-75Jr6Q/XpTqEf6D2ltS5uMewJIx5irCU1oBYJrWjFenq/m12WRRrz6g15L1EIoYvPLXTbEry7rDOwrcYNj77xw==
@@ -2858,15 +2858,15 @@ core-js-compat@^3.12.1, core-js-compat@^3.20.0, core-js-compat@^3.20.2:
     browserslist "^4.19.1"
     semver "7.0.0"
 
+core-js@3.25.0:
+  version "3.25.0"
+  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.25.0.tgz#be71d9e0dd648ffd70c44a7ec2319d039357eceb"
+  integrity sha512-CVU1xvJEfJGhyCpBrzzzU1kjCfgsGUxhEvwUV2e/cOedYWHdmluamx+knDnmhqALddMG16fZvIqvs9aijsHHaA==
+
 core-js@^2.6.5:
   version "2.6.12"
   resolved "https://registry.npmjs.org/core-js/-/core-js-2.6.12.tgz"
   integrity sha512-Kb2wC0fvsWfQrgk8HU5lW6U/Lcs8+9aaYcy4ZFc6DDlo4nZ7n70dEgE5rtR0oG6ufKDUnrwfWL1mXR5ljDatrQ==
-
-core-js@^3.25.0:
-  version "3.25.0"
-  resolved "https://registry.npmjs.org/core-js/-/core-js-3.25.0.tgz"
-  integrity sha512-CVU1xvJEfJGhyCpBrzzzU1kjCfgsGUxhEvwUV2e/cOedYWHdmluamx+knDnmhqALddMG16fZvIqvs9aijsHHaA==
 
 core-util-is@~1.0.0:
   version "1.0.3"
@@ -3663,9 +3663,9 @@ escape-string-regexp@^4.0.0:
   resolved "https://registry.npmjs.org/escape-string-regexp/-/escape-string-regexp-4.0.0.tgz"
   integrity sha512-TtpcNJ3XAzx3Gq8sWRzJaVajRs0uVxA2YAkdb1jm2YkPz4G6egUFAyA3n5vtEIZefPk5Wa4UXbKuS5fKkJWdgA==
 
-eslint-config-prettier@^8.5.0:
+eslint-config-prettier@8.5.0:
   version "8.5.0"
-  resolved "https://registry.npmjs.org/eslint-config-prettier/-/eslint-config-prettier-8.5.0.tgz"
+  resolved "https://registry.yarnpkg.com/eslint-config-prettier/-/eslint-config-prettier-8.5.0.tgz#5a81680ec934beca02c7b1a61cf8ca34b66feab1"
   integrity sha512-obmWKLUNCnhtQRKc+tmnYuQl0pFU1ibYJQ5BGhTVB08bHe9wC8qUeG7c08dj9XX+AuPj1YSGSQIHl1pnDHZR0Q==
 
 eslint-config-standard@^17.0.0:
@@ -3749,9 +3749,9 @@ eslint-plugin-node@^11.1.0:
     resolve "^1.10.1"
     semver "^6.1.0"
 
-eslint-plugin-nuxt@^3.2.0:
+eslint-plugin-nuxt@3.2.0:
   version "3.2.0"
-  resolved "https://registry.npmjs.org/eslint-plugin-nuxt/-/eslint-plugin-nuxt-3.2.0.tgz"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-nuxt/-/eslint-plugin-nuxt-3.2.0.tgz#5fbe95c8c7784c071d39adc848a695ef5e91fb34"
   integrity sha512-SWpmJALwagdrlMooajFX9IFxFEKdBxD+e4NFOVw9FGc22HQpNKdiljRHchS/3O5e2R7sPZYv8xdCtoordqIXFQ==
   dependencies:
     eslint-plugin-vue "^8.5.0"
@@ -3783,6 +3783,19 @@ eslint-plugin-unicorn@^42.0.0:
     semver "^7.3.5"
     strip-indent "^3.0.0"
 
+eslint-plugin-vue@9.4.0:
+  version "9.4.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-vue/-/eslint-plugin-vue-9.4.0.tgz#31c2d9002b5bb437b351a5feffdf37c4397e5cb9"
+  integrity sha512-Nzz2QIJ8FG+rtJaqT/7/ru5ie2XgT9KCudkbN0y3uFYhQ41nuHEaboLAiqwMcK006hZPQv/rVMRhUIwEGhIvfQ==
+  dependencies:
+    eslint-utils "^3.0.0"
+    natural-compare "^1.4.0"
+    nth-check "^2.0.1"
+    postcss-selector-parser "^6.0.9"
+    semver "^7.3.5"
+    vue-eslint-parser "^9.0.1"
+    xml-name-validator "^4.0.0"
+
 eslint-plugin-vue@^8.5.0, eslint-plugin-vue@^8.7.1:
   version "8.7.1"
   resolved "https://registry.npmjs.org/eslint-plugin-vue/-/eslint-plugin-vue-8.7.1.tgz"
@@ -3794,19 +3807,6 @@ eslint-plugin-vue@^8.5.0, eslint-plugin-vue@^8.7.1:
     postcss-selector-parser "^6.0.9"
     semver "^7.3.5"
     vue-eslint-parser "^8.0.1"
-
-eslint-plugin-vue@^9.4.0:
-  version "9.4.0"
-  resolved "https://registry.npmjs.org/eslint-plugin-vue/-/eslint-plugin-vue-9.4.0.tgz"
-  integrity sha512-Nzz2QIJ8FG+rtJaqT/7/ru5ie2XgT9KCudkbN0y3uFYhQ41nuHEaboLAiqwMcK006hZPQv/rVMRhUIwEGhIvfQ==
-  dependencies:
-    eslint-utils "^3.0.0"
-    natural-compare "^1.4.0"
-    nth-check "^2.0.1"
-    postcss-selector-parser "^6.0.9"
-    semver "^7.3.5"
-    vue-eslint-parser "^9.0.1"
-    xml-name-validator "^4.0.0"
 
 eslint-scope@^4.0.3:
   version "4.0.3"
@@ -3873,9 +3873,9 @@ eslint-webpack-plugin@^2.6.0:
     normalize-path "^3.0.0"
     schema-utils "^3.1.1"
 
-eslint@^8.22.0:
+eslint@8.22.0:
   version "8.22.0"
-  resolved "https://registry.npmjs.org/eslint/-/eslint-8.22.0.tgz"
+  resolved "https://registry.yarnpkg.com/eslint/-/eslint-8.22.0.tgz#78fcb044196dfa7eef30a9d65944f6f980402c48"
   integrity sha512-ci4t0sz6vSRKdmkOGmprBo6fmI4PrphDFMy5JEq/fNS0gQkJM3rLmrqcp8ipMcdobH3KtUP40KniAE9W19S4wA==
   dependencies:
     "@eslint/eslintrc" "^1.3.0"
@@ -6798,9 +6798,9 @@ postcss-gap-properties@^2.0.0:
   dependencies:
     postcss "^7.0.2"
 
-postcss-html@^1.5.0:
+postcss-html@1.5.0:
   version "1.5.0"
-  resolved "https://registry.npmjs.org/postcss-html/-/postcss-html-1.5.0.tgz"
+  resolved "https://registry.yarnpkg.com/postcss-html/-/postcss-html-1.5.0.tgz#57a43bc9e336f516ecc448a37d2e8c2290170a6f"
   integrity sha512-kCMRWJRHKicpA166kc2lAVUGxDZL324bkj/pVOb6RhjB0Z5Krl7mN0AsVkBhVIRZZirY0lyQXG38HCVaoKVNoA==
   dependencies:
     htmlparser2 "^8.0.0"
@@ -7375,7 +7375,7 @@ postcss@7.x.x, postcss@^7.0.0, postcss@^7.0.1, postcss@^7.0.14, postcss@^7.0.17,
     picocolors "^0.2.1"
     source-map "^0.6.1"
 
-postcss@^8.1.10, postcss@^8.2.15, postcss@^8.4.0, postcss@^8.4.14, postcss@^8.4.16:
+postcss@8.4.16, postcss@^8.1.10, postcss@^8.2.15, postcss@^8.4.0, postcss@^8.4.14, postcss@^8.4.16:
   version "8.4.16"
   resolved "https://registry.npmjs.org/postcss/-/postcss-8.4.16.tgz"
   integrity sha512-ipHE1XBvKzm5xI7hiHCZJCSugxvsdq2mPnsq5+UF+VHCjiBvtDrlxJfMBToWaP9D5XlgNmcFGqoHmUn0EYEaRQ==
@@ -7394,7 +7394,7 @@ prepend-http@^1.0.0:
   resolved "https://registry.npmjs.org/prepend-http/-/prepend-http-1.0.4.tgz"
   integrity sha1-1PRWKwzjaW5BrFLQ4ALlemNdxtw=
 
-"prettier@^1.18.2 || ^2.0.0", prettier@^2.7.1:
+prettier@2.7.1, "prettier@^1.18.2 || ^2.0.0":
   version "2.7.1"
   resolved "https://registry.npmjs.org/prettier/-/prettier-2.7.1.tgz"
   integrity sha512-ujppO+MkdPqoVINuDFDRLClm7D78qbDt0/NR+wp5FqEZOoTNAjPHWj17QRhu7geIHJfcNhRk1XVQmF8Bp3ye+g==
@@ -8477,9 +8477,9 @@ stylelint-config-prettier@9.0.3:
   resolved "https://registry.npmjs.org/stylelint-config-prettier/-/stylelint-config-prettier-9.0.3.tgz"
   integrity sha512-5n9gUDp/n5tTMCq1GLqSpA30w2sqWITSSEiAWQlpxkKGAUbjcemQ0nbkRvRUa0B1LgD3+hCvdL7B1eTxy1QHJg==
 
-stylelint-config-recommended-vue@^1.4.0:
+stylelint-config-recommended-vue@1.4.0:
   version "1.4.0"
-  resolved "https://registry.npmjs.org/stylelint-config-recommended-vue/-/stylelint-config-recommended-vue-1.4.0.tgz"
+  resolved "https://registry.yarnpkg.com/stylelint-config-recommended-vue/-/stylelint-config-recommended-vue-1.4.0.tgz#0a182da17dc9e846e4bec65a7676ccf882b35964"
   integrity sha512-DVJqyX2KvMCn9U0+keL12r7xlsH26K4Vg8NrIZuq5MoF7g82DpMp326Om4E0Q+Il1o+bTHuUyejf2XAI0iD04Q==
   dependencies:
     semver "^7.3.5"
@@ -8491,9 +8491,9 @@ stylelint-config-recommended@>=6.0.0, stylelint-config-recommended@^9.0.0:
   resolved "https://registry.npmjs.org/stylelint-config-recommended/-/stylelint-config-recommended-9.0.0.tgz"
   integrity sha512-9YQSrJq4NvvRuTbzDsWX3rrFOzOlYBmZP+o513BJN/yfEmGSr0AxdvrWs0P/ilSpVV/wisamAHu5XSk8Rcf4CQ==
 
-stylelint-config-standard@^28.0.0:
+stylelint-config-standard@28.0.0:
   version "28.0.0"
-  resolved "https://registry.npmjs.org/stylelint-config-standard/-/stylelint-config-standard-28.0.0.tgz"
+  resolved "https://registry.yarnpkg.com/stylelint-config-standard/-/stylelint-config-standard-28.0.0.tgz#7e1926c232631a8445eafee7b186d276d42d7b15"
   integrity sha512-q/StuowDdDmFCravzGHAwgS9pjX0bdOQUEBBDIkIWsQuYGgYz/xsO8CM6eepmIQ1fc5bKdDVimlJZ6MoOUcJ5Q==
   dependencies:
     stylelint-config-recommended "^9.0.0"
@@ -8511,9 +8511,9 @@ stylelint-webpack-plugin@^2.3.1:
     normalize-path "^3.0.0"
     schema-utils "^3.1.1"
 
-stylelint@^14.11.0:
+stylelint@14.11.0:
   version "14.11.0"
-  resolved "https://registry.npmjs.org/stylelint/-/stylelint-14.11.0.tgz"
+  resolved "https://registry.yarnpkg.com/stylelint/-/stylelint-14.11.0.tgz#e2ecb28bbacab05e1fbeb84cbba23883b27499cc"
   integrity sha512-OTLjLPxpvGtojEfpESWM8Ir64Z01E89xsisaBMUP/ngOx1+4VG2DPRcUyCCiin9Rd3kPXPsh/uwHd9eqnvhsYA==
   dependencies:
     "@csstools/selector-specificity" "^2.0.2"
@@ -8624,9 +8624,9 @@ table@^6.8.0:
     string-width "^4.2.3"
     strip-ansi "^6.0.1"
 
-tailwindcss@^3.1.8:
+tailwindcss@3.1.8:
   version "3.1.8"
-  resolved "https://registry.npmjs.org/tailwindcss/-/tailwindcss-3.1.8.tgz"
+  resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-3.1.8.tgz#4f8520550d67a835d32f2f4021580f9fddb7b741"
   integrity sha512-YSneUCZSFDYMwk+TGq8qYFdCA3yfBRdBlS7txSq0LUmzyeqRe3a8fBQzbz9M3WS/iFT4BNf/nmw9mEzrnSaC0g==
   dependencies:
     arg "^5.0.2"
@@ -9219,7 +9219,7 @@ vue-router@^3.5.1:
   resolved "https://registry.npmjs.org/vue-router/-/vue-router-3.5.3.tgz"
   integrity sha512-FUlILrW3DGitS2h+Xaw8aRNvGTwtuaxrRkNSHWTizOfLUie7wuYwezeZ50iflRn8YPV5kxmU2LQuu3nM/b3Zsg==
 
-vue-server-renderer@^2.6.12, vue-server-renderer@^2.7.10:
+vue-server-renderer@2.7.10, vue-server-renderer@^2.6.12:
   version "2.7.10"
   resolved "https://registry.npmjs.org/vue-server-renderer/-/vue-server-renderer-2.7.10.tgz"
   integrity sha512-hvlnyTZmDmnI7IpQE5YwIwexPi6yJq8eeNTUgLycPX3uhuEobygAQklHoeVREvwNKcET/MnVOtjF4c7t7mw6CQ==
@@ -9241,7 +9241,7 @@ vue-style-loader@^4.1.0, vue-style-loader@^4.1.3:
     hash-sum "^1.0.2"
     loader-utils "^1.0.2"
 
-vue-template-compiler@^2.6.12, vue-template-compiler@^2.6.14, vue-template-compiler@^2.7.10:
+vue-template-compiler@2.7.10, vue-template-compiler@^2.6.12, vue-template-compiler@^2.6.14:
   version "2.7.10"
   resolved "https://registry.npmjs.org/vue-template-compiler/-/vue-template-compiler-2.7.10.tgz"
   integrity sha512-QO+8R9YRq1Gudm8ZMdo/lImZLJVUIAM8c07Vp84ojdDAf8HmPJc7XB556PcXV218k2AkKznsRz6xB5uOjAC4EQ==
@@ -9254,7 +9254,7 @@ vue-template-es2015-compiler@^1.9.0:
   resolved "https://registry.npmjs.org/vue-template-es2015-compiler/-/vue-template-es2015-compiler-1.9.1.tgz"
   integrity sha512-4gDntzrifFnCEvyoO8PqyJDmguXgVPxKiIxrBKjIowvL9l+N66196+72XVYR8BBf1Uv1Fgt3bGevJ+sEmxfZzw==
 
-vue@^2.6.12, vue@^2.7.10:
+vue@2.7.10, vue@^2.6.12:
   version "2.7.10"
   resolved "https://registry.npmjs.org/vue/-/vue-2.7.10.tgz"
   integrity sha512-HmFC70qarSHPXcKtW8U8fgIkF6JGvjEmDiVInTkKZP0gIlEPhlVlcJJLkdGIDiNkIeA2zJPQTWJUI4iWe+AVfg==
@@ -9340,7 +9340,7 @@ webpack-sources@^1.0.1, webpack-sources@^1.1.0, webpack-sources@^1.4.0, webpack-
     source-list-map "^2.0.0"
     source-map "~0.6.1"
 
-webpack@^4.46.0:
+webpack@4.46.0, webpack@^4.46.0:
   version "4.46.0"
   resolved "https://registry.npmjs.org/webpack/-/webpack-4.46.0.tgz"
   integrity sha512-6jJuJjg8znb/xRItk7bkT0+Q7AHCYjjFnvKIWQPkNIOyRqoCGvkOs0ipeQzrqz4l5FtN5ZI/ukEHroeX/o1/5Q==
