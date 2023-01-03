@@ -1,9 +1,9 @@
-# hashima
+# hashima-v1
 
-[![Github License](https://img.shields.io/github/license/setetres/hashima.svg?v=1)](https://github.com/setetres/hashima/blob/master/LICENSE)
+[![Github License](https://img.shields.io/github/license/setetres/hashima-v1.svg?v=1)](https://github.com/setetres/hashima-v1/blob/master/LICENSE)
 
-| [![hashima](https://setetres.s3.amazonaws.com/setetres.st/img/share-hashima.png?v=1&raw=true)](http://hashima.gg) |
-| ----------------------------------------------------------------------------------------------------------------- |
+| [![hashima-v1](https://setetres.s3.amazonaws.com/setetres.st/img/share-hashima-v1.png?v=1&raw=true)](http://hashima.gg) |
+| -------------------------------------------------------------------------------------------------------------------- |
 
 ## License
 
